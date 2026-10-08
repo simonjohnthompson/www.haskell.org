@@ -15,6 +15,7 @@ If you are new to Haskell and are not sure where to start from, we recommend [CI
 *   [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/)
 *   [Real World Haskell](https://book.realworldhaskell.org/)
 *   [Learn Haskell by building a blog generator](https://learn-haskell.blog)
+*   [Haskell: The Craft of Functional Programming](https://simonjohnthompson.github.io/haskellcraft/)
 *   \[$$\] [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
 *   \[$$\] [Haskell Programming from first principles](https://haskellbook.com)
 *   \[$$\] [Thinking Functionally with Haskell](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell)
